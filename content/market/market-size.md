@@ -1,16 +1,7 @@
-# Magnitude do Mercado
+## A magnitude do mercado neurodivergente justifica ação imediata
 
-## Visão Geral
-O mercado neurodivergente é grande e economicamente significativo. Estima-se que 15-20% da população global seja neurodivergente (1-1,3 bilhões de pessoas), com poder de compra coletivo estimado em US$ 13 trilhões anuais.
+O mercado neurodivergente não é nicho — é massivo e lucrativo. Globalmente, estima-se que **1 a 1,3 bilhão de pessoas** são neurodivergentes, com poder de compra coletivo de **US$ 13 trilhões anuais**. Nos Estados Unidos, 70 milhões de pessoas neurodivergentes controlam aproximadamente **US$ 1 trilhão** em gastos anuais. No Reino Unido, a "Purple Pound" (poder de compra das pessoas com deficiência) soma **£274 bilhões anuais**.
 
-## Métricas Regionais
-- EUA: ~70 milhões de pessoas neurodivergentes com poder de compra estimado em ~US$ 1 trilhão.
-- Reino Unido: "Purple Pound" estimado em £274 bilhões anuais.
-- Brasil: Censo IBGE 2022 identificou 2,4 milhões diagnosticados com autismo; estimativas reais podem chegar a 5,5-6,9 milhões incluindo não diagnosticados.
+No contexto específico de restaurantes, dados revelam que pessoas com deficiência gastam **US$ 35 bilhões anualmente** em restaurantes nos EUA, com **75% jantando fora semanalmente**. No entanto, existe uma lacuna crítica: enquanto 75% das pessoas sem deficiência jantam fora 2+ vezes por mês, apenas **48% das pessoas com deficiência** fazem o mesmo — uma diferença de 27 pontos percentuais que representa receita perdida substancial. Pesquisa da TPGi/Vispero (2024) com 600+ consumidores confirmou que **84% dos entrevistados** indicaram que acessibilidade tem impacto moderado ou significativo na disposição de repetir visitas.
 
-## Impacto no setor de restauração
-- Comunidade com deficiência gasta aproximadamente US$ 35 bilhões anualmente em restaurantes nos EUA.
-- Diferença de frequência de jantar entre pessoas sem deficiência (75% jantam fora 2+ vezes/mês) e com deficiência (48%) representa uma lacuna de 27 pontos percentuais e receita perdida.
-
-## Implicação
-Essa escala torna a acessibilidade uma prioridade estratégica de negócio, não apenas uma medida de conformidade ou responsabilidade social.
+**No Brasil**, o Censo IBGE 2022 identificou oficialmente **2,4 milhões de brasileiros diagnosticados com autismo** (1,2% da população com 2+ anos), sendo **1 em 38 crianças de 5-9 anos** (2,6% nessa faixa etária). Estudos sugerem que o número real, incluindo não diagnosticados, pode chegar a 5,5-6,9 milhões. Para TDAH, estimativas indicam **5-8% das crianças** e **4% dos adultos**. **Em Portugal**, dados mais antigos (Oliveira, 2005) reportaram 1 em 1.000 crianças em idade escolar, mas estimativas atuais alinham-se com padrões internacionais de aproximadamente **1% da população** (60.000+ pessoas). Para TDAH, a prevalência portuguesa é de **5-7,5% em crianças** e **2,5% em adultos**.

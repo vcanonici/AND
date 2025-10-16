@@ -1,11 +1,5 @@
-# Caso: The Gate (Reino Unido)
+### Reino Unido: The Gate — primeira certificação NAS
 
-## Visão Geral
-The Gate foi o primeiro restaurante certificado pela National Autistic Society no Reino Unido (2016), servindo como precedente para certificações e práticas de acessibilidade.
+**The Gate** (Islington/Hammersmith) tornou-se o primeiro restaurante certificado pela National Autistic Society do Reino Unido em 2016. Proprietário Michael Daniel fez parceria com Ambitious About Autism para implementar modificações abrangentes. Estabeleceu precedente para certificação de restaurantes no Reino Unido.
 
-## Acomodações e práticas
-- Parcerias com organizações locais para implementar mudanças profundas.
-- Treino da equipa e ajustes no horário/ambiente para reduzir estímulos.
-
-## Impacto
-- Tornou-se referência no setor e encorajou outras empresas a seguir o exemplo.
+**Seasons Restaurant** (Leamington Spa): Andrew Iredale (pai de filho autista Josh) implementou "jantar de tempo de qualidade" na 1ª/3ª sexta-feira 5-7pm, acreditado ser primeiro na Inglaterra com acomodações dietéticas especiais, endossos de Resources for Autism + apresentador BBC.

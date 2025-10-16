@@ -1,14 +1,5 @@
-# Caso: Sarang Kitchen (Toronto, Canadá)
+### Canadá: Sarang Kitchen — sala multi-sensorial de classe mundial
 
-## Visão Geral
-Aberto em 2023, Sarang Kitchen implementou uma sala multi-sensorial e práticas de operação centradas em neurodiversidade.
+Aberto em Toronto em 2023 por Jennifer Low (especialista em comportamento) + Chef Deon Kim, **Sarang Kitchen** estabeleceu novo padrão global para restaurantes neurodivergente-friendly. **Características de classe mundial**: Sala multi-sensorial com cobertores pesados, paisagem sonora ambiente; caixas sensoriais com brinquedos fidget; fones de ouvido com cancelamento de ruído; jantar com temperatura perfeita; banheiros individuais; 4 funcionários neurodivergentes com treinamento customizado (manuais visuais, vídeos de culinária, checklists individuais); modelo sem gorjeta, salário digno.
 
-## Acomodações implementadas
-- Sala multi-sensorial com cobertores pesados, paisagem sonora controlada e brinquedos sensoriais.
-- Fones com cancelamento de ruído e banheiros individuais.
-- Equipa com formação específica e funcionários neurodivergentes.
-- Modelo sem gorjeta, salário digno e manuais visuais para operações.
-
-## Impacto
-- Estabeleceu novo padrão global para experiência neurodivergent-friendly.
-- Demonstra que design intencional é mais importante que orçamentos elevados.
+**Citação**: "Não é tão difícil tornar coisas acessíveis" — Jennifer Low. Sarang Kitchen demonstra que investimento em acessibilidade não requer orçamentos astronômicos, mas sim design intencional e compreensão genuína.

@@ -1,7 +1,3 @@
-# Métricas Chave
+### Evidência quantitativa direta
 
-- 84%: percentagem de consumidores com deficiência que indicam que acessibilidade impacta a disposição de repetir visita.
-- 75%: percentagem que abandonou negócios por barreiras de acessibilidade.
-- US$ 13 trilhões: estimativa de poder de compra global da população com deficiência.
-- US$ 35 bilhões: gasto anual em restaurantes pela comunidade com deficiência nos EUA.
-- Brasil (IBGE 2022): 2,4 milhões diagnosticados com autismo.
+**84% dos consumidores** com deficiência indicam que acessibilidade tem impacto moderado ou significativo na disposição de repetir visita (TPGi/Vispero, 2024). **75% abandonaram negócios** devido a acessibilidade/serviço ruim (Purple Pound). **70% não retornarão** após serviço ruim ao cliente. **74% das mães** acham jantar fora com filho autista estressante, mas **89,1% satisfeitas com frequência** — indicando desejo de consumir mas barreiras criando estresse. **Lacuna de 27 pontos percentuais** em frequência de jantar fora entre pessoas com/sem deficiência (48% vs 75% jantam fora 2+ vezes/mês) — representa receita perdida substancial.

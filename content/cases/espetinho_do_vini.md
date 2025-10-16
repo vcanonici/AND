@@ -1,15 +1,7 @@
-# Caso: Espetinho do Vini (Guaíba, RS, Brasil)
+### Brasil: Espetinho do Vini — primeiro restaurante adaptado para autistas
 
-## Visão Geral
-Espetinho do Vini foi fundado por Vinícius e Kelli Longaray como o primeiro restaurante adaptado para autistas no Brasil.
+Localizado em Guaíba, RS (~30km de Porto Alegre), o **Espetinho do Vini** foi fundado por Vinícius e Kelli Longaray, pais de criança autista (Enzo Gabriel, 5 anos). Representa o primeiro restaurante adaptado para autistas no Brasil.
 
-## Acomodações implementadas
-- Menu infantil customizável com itens a preço de custo (R$ 1,90-2,90) para comedores seletivos.
-- Fones com cancelamento de ruído disponíveis.
-- Música de fundo suave com opção de desligar.
-- Área infantil fechada com mesas para supervisão próxima.
-- Adesivos informativos e sinalização educativa sobre autismo.
+**Características de acessibilidade implementadas**: Menu infantil customizável para comedores seletivos com itens a R$ 1,90-2,90 (preço de custo, sem margem de lucro) — exemplos: arroz simples, arroz com farofa, arroz com batata chips — pais podem customizar pratos baseados nas preferências da criança. Acomodações sensoriais: fones de ouvido com cancelamento de ruído disponíveis para crianças com sensibilidade auditiva, música de fundo suave (pode ser desligada sob pedido), ambiente de baixa estimulação sensorial. Adaptações físicas: área de recreação fechada (espaço infantil) com mesas dentro para que pais possam ficar próximos, cadeiras especiais, proteções de vidro, portão fechado para prevenir crianças de correr para rua. Iniciativas educacionais: adesivos informativos em mesas sobre características do autismo, sinalização educacional sobre autismo através do restaurante.
 
-## Resultados
-- Reconhecimento em mídia nacional e clientela regular de famílias autistas.
-- Modelo replicável para outros restaurantes; investimento aproximado de R$ 100.000 em adaptações.
+**Resultados**: Sucesso em mídia social, apresentado em notícias nacionais (Terra, Correio Braziliense, UOL, Abrasel, Canal Autismo), clientela regular de famílias autistas, modelo para outros restaurantes, investimento de ~R$ 100.000 em adaptações.
