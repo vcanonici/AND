@@ -81,7 +81,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📚 References
 
-The report includes 200+ academic, industry, and case study references covering research from 2013-2025. See the **[complete bibliography](content/12-REFERENCES.md)** for all sources organized by category.
+The report includes 90+ academic, industry, and case study references covering research from 2013-2025. See the **[complete bibliography](content/12-REFERENCES.md)** for all sources organized by category.
 
 ---
 

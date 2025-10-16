@@ -4,27 +4,15 @@ This section contains all references cited throughout the Accessible Neurodiverg
 
 ## Academic and Research References
 
-- Johnson, R. L., et al. (2023). Impact of letter spacing on reading speed in dyslexia. *Journal of Learning Disabilities*.
-
-- Kuster, S. M., et al. (2016). *Are specialized dyslexia fonts worth the investment?* In Proceedings of Mensch und Computer 2016.
-
-- Marinus, E., et al. (2017). *A special font for people with dyslexia: Does it work and, if so, why?* Dyslexia, 23(1), 36-52.
-
-- Oliveira, G., et al. (2005). *Epidemiology of autism spectrum disorder in Portugal*. Developmental Medicine & Child Neurology.
-
 - Park, E., et al. (2021). *Parents' Strategies to Support Mealtime Participation of Their Children With Autism Spectrum Disorder*. American Journal of Occupational Therapy. https://pmc.ncbi.nlm.nih.gov/articles/PMC6402415/
 
 - Polanczyk, G., et al. (2007). *The worldwide prevalence of ADHD: a systematic review and metaregression analysis*. American Journal of Psychiatry, 164(6), 942-948. https://pubmed.ncbi.nlm.nih.gov/17541055/
-
-- Rello, L., & Baeza-Yates, R. (2013). *Good fonts for dyslexia*. In Proceedings of the 15th International ACM SIGACCESS Conference on Computers and Accessibility.
 
 - ScienceDirect. (2017). *Do pictures help? The effects of pictures and food names on menu evaluations*. International Journal of Hospitality Management, 60, 94-103. https://www.sciencedirect.com/science/article/abs/pii/S0278431916303188
 
 - ScienceDirect. (2022). *Exploring maximizing, satisficing and minimizing tendency in decision-making among autistic and neurotypical individuals*. Research in Autism Spectrum Disorders, 91. https://www.sciencedirect.com/science/article/abs/pii/S1750946722000228
 
 - Springer. (2024). *Autistic Adults Avoid Unpredictability in Decision-Making*. Journal of Autism and Developmental Disorders. https://link.springer.com/article/10.1007/s10803-024-06503-2
-
-- Sweller, J. (1988). *Cognitive load during problem solving: Effects on learning*. Cognitive Science, 12(2), 257-285.
 
 ## Government and Official Statistics
 
