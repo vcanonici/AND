@@ -1,0 +1,7 @@
+# Menus Acessíveis são Decisivos para Consumidores Neurodivergentes
+
+**A evidência é clara:** Menus acessíveis impactam diretamente as decisões de consumo de pessoas neurodivergentes, representando um mercado de US$ 13 trilhões globalmente. Pesquisas mostram que **84% dos consumidores com deficiência consideram acessibilidade ao decidir se retornam a um estabelecimento**, enquanto **75% já abandonaram negócios devido a barreiras de acessibilidade**. 
+
+Para o segmento neurodivergente especificamente — 15-20% da população global ou 1+ bilhão de pessoas — menus com fotos realistas, tipografia adequada e design simplificado reduzem significativamente a carga cognitiva e a ansiedade, transformando experiências estressantes em oportunidades de consumo regular. 
+
+Estabelecimentos que implementaram menus acessíveis relatam maior fidelização, frequência de visitas e reputação ampliada.
