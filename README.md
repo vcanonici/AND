@@ -1,27 +1,59 @@
-# AND Information Hub — Repositório de Conhecimento (Inicial)
+## AND — Material sobre Acessibilidade e Neurodivergência
 
-Este repositório transforma o conteúdo de `Initial Report.txt` (acessibilidade para pessoas neurodivergentes) em um repositório de conhecimento segmentado, pronto para publicação no GitHub.
+Este repositório reúne o texto base ("Initial Report") e versões segmentadas em Markdown, organizadas por assunto, sobre acessibilidade e neurodivergência.
 
-# AND — Information Hub (publish-ready)
+Estrutura principal
+- `Initial Report.txt` — texto original usado como fonte.
+- `content/` — conjunto de arquivos Markdown organizados em subpastas (design, casos, legal, market, metrics, decision, recommendations, references, etc.).
+- `docs/` — arquivos gerados para publicação (MkDocs). O arquivo `docs/index.md` existe como ponto de entrada.
+- `mkdocs.yml` — configuração usada para gerar um site estático com MkDocs (tema `material`).
+- `scripts/` — scripts auxiliares em Python para extrair e verificar conteúdo (`extract_sections.py`, `check_snippet.py`, `verify_contents.py`).
 
-This repository contains a segmented, publishable version of the "Initial Report" on accessibility and neurodivergence.
+O conteúdo em `content/` corresponde às páginas listadas em `mkdocs.yml` e pode ser usado diretamente para renderizar um site com MkDocs.
 
-Contents
-- `Initial Report.txt` — canonical source text.
-- `content/` — segmented markdown files produced verbatim from the report, organized by topic.
+Como usar (rápido)
 
-How to publish
-- Create a new GitHub repository and push this folder as-is. This repo is intentionally minimal — no local tooling is required for readers.
+- Pré-requisitos: Python 3.8+ recomendado.
+- Para ativar um ambiente virtual no Windows PowerShell (caso exista `.venv`):
 
-Notes
-- Local tools and development artifacts (virtualenvs, scripts, backups) are intentionally excluded from the published tree and listed in `.gitignore`.
-- If you want a GitHub Pages site, I can generate a `SUMMARY.md` and a small `mkdocs` configuration.
+```powershell
+& .\.venv\Scripts\Activate.ps1
+```
 
-License
-- This repository includes a `LICENSE` file at the root. Keep or replace it as appropriate for publication.
+- Instalando dependências (se desejar instalar ferramentas adicionais para editar/visualizar):
 
-If you want me to make any of the following before publishing, tell me which:
-- Commit the current changes and open a PR.
-- Remove or permanently delete local tooling files (scripts, data artifacts).
-- Generate a `SUMMARY.md` for GitHub Pages navigation.
-- references/references.md — referências seletivas
+```powershell
+python -m pip install --upgrade pip
+pip install mkdocs-material mkdocs
+```
+
+- Visualizar localmente com MkDocs:
+
+```powershell
+mkdocs serve
+```
+
+O site será servido em http://127.0.0.1:8000 enquanto o servidor estiver ativo.
+
+Scripts úteis
+
+- `scripts/extract_sections.py` — utilitário para extrair seções do texto original e gerar/atualizar arquivos em `content/`.
+- `scripts/check_snippet.py` — checa fragmentos ou snippets dentro do conteúdo.
+- `scripts/verify_contents.py` — valida a presença de arquivos esperados e referências internas.
+
+Contribuição
+
+Sinta-se livre para abrir issues ou pull requests. Antes de submeter PRs grandes, abra uma issue para discutir mudanças conceituais.
+
+Licença
+
+Há um arquivo `LICENSE` na raiz — reveja-o e mantenha conforme necessário.
+
+Notas finais
+
+Se quiser que eu:
+- Gere uma versão atualizada de `docs/` (site estático) a partir do conteúdo;
+- Gerei um `SUMMARY.md` ou ajuste na configuração do MkDocs;
+- Remova arquivos de backup (`*.bak`) ou artefatos locais;
+
+Diga qual dessas ações prefere e eu preparo as alterações.
